@@ -48,6 +48,9 @@ halodoc-review-analysis/
 │ └── df_halodoc_before_stopwords_sentiment_rating.csv
 ├── notebooks/
 │ └── Scrap_and_Sentiment_Analysis_Halodoc_Reviews_5026211005_pba_indoreviews.ipynb
+├── resouces/
+│ ├── indonesian-stopwords-complete.txt
+│ └── normalisasi.csv
 ├── results/
 │ ├── scatterplot_GooglePlayStore_HaloDoc_Reviews_SentimentAnalysis.png
 │ ├── freqwords_before_stopwords_HaloDoc_Reviews.png
