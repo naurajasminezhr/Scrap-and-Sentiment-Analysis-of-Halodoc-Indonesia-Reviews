@@ -1,0 +1,2 @@
+# Scrap-and-Sentiment-Analysis-of-Halodoc-Indonesia-Reviews
+This project involves scraping and analyzing Halodoc app reviews from Google Play Store. It includes web scraping, data preprocessing (language detection, text cleaning, stemming), and sentiment analysis. The analysis provides insights into user sentiment, frequent words in reviews, and the relationship between ratings and sentiment scores.
