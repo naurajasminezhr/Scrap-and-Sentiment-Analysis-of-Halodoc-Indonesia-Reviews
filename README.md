@@ -97,14 +97,36 @@ jupyter notebook Scrap_and_Sentiment_Analysis_Halodoc_Reviews_5026211005_pba_ind
 
 ## Results
 
-The analysis provides several insights:
+The analysis of Halodoc app reviews provided several quantitative insights:
 
-1. Sentiment distribution of Halodoc app reviews
-2. Most frequent words used in reviews
-3. Relationship between review ratings and sentiment scores
-4. Common themes in positive and negative reviews
+1. Data Volume:
+   - Total reviews analyzed: 35,931
 
-Key visualizations include word clouds of frequent terms, scatter plots of sentiment scores, and distribution plots of review ratings.
+2. Language Distribution:
+   - Reviews in English: 20,113 (56.0%)
+   - Reviews in Indonesian: 15,818 (44.0%)
+
+3. Sentiment Distribution:
+   - Positive reviews: 31,911 (88.8%)
+   - Negative reviews: 3,265 (9.1%)
+   - Neutral reviews: 755 (2.1%)
+
+4. Rating Distribution:
+   - 5-star ratings: 29,710 (82.7%)
+   - 4-star ratings: 2,201 (6.1%)
+   - 3-star ratings: 755 (2.1%)
+   - 2-star ratings: 601 (1.7%)
+   - 1-star ratings: 2,664 (7.4%)
+
+5. Most Frequent Words (after stemming):
+   - Top 5 words: "bantu" (8,166), "good" (4,380), "kasih" (3,171), "terima" (3,080), "helpful" (2,545)
+
+6. Key Visualizations:
+   - Word clouds highlighting frequent terms in reviews
+   - Scatter plot showing the relationship between sentiment polarity and subjectivity
+   - Bar plot of rating distribution
+   - Frequency distribution of top words before and after stemming
+
 
 ## Evaluation
 
